@@ -38,4 +38,5 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://GitHub.com/)
+- [前往番茄鐘](https://yuchin1189.github.io/pomodoro2/#/)
+- [儲存庫](https://github.com/yuchin1189/pomodoro2)
